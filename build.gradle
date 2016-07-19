@@ -1,0 +1,3 @@
+task dummy << {
+    println "dummy task"
+}
